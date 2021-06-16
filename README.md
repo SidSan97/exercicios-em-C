@@ -5,3 +5,6 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
 
 <H2 align="center"> EXERCICÍO 1 </H2>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%201.png" width="100%">
+
+<H2 align="center"> EXERCICÍO 2 </H2>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%202.png" width="100%">
