@@ -15,3 +15,9 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
 <H2 align="center"> EXERCICÍO 4 </H2>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%204.png" width="70%" height="450px">
 
+<H2 align="center"> EXERCICÍO 5 </H2>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%205.png" width="70%" height="450px">
+
+<H2 align="center"> EXERCICÍO 6 </H2>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%206.png" width="70%" height="450px">
+
