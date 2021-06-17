@@ -7,22 +7,22 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
 
 <H3 align="center"> EXERCICÍO 1 </H3>
 
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%201.png" width="70%" height="450px">
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%201.png" width="100%" height="500px">
 
 <H3 align="center"> EXERCICÍO 2 </H3>
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%202.png" width="70%" height="450px">
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%202.png" width="100%" height="500px">
 
 <H3 align="center"> EXERCICÍO 3 </H3>
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%203.png" width="70%" height="450px">
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%203.png" width="100%" height="500px">
 
 <H3 align="center"> EXERCICÍO 4 </H3>
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%204.png" width="70%" height="450px">
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%204.png" width="100%" height="500px">
 
 <H3 align="center"> EXERCICÍO 5 </H3>
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%205.png" width="70%" height="450px">
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%205.png" width="100%" height="500px">
 
 <H3 align="center"> EXERCICÍO 6 </H3>
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%206.png" width="70%" height="450px">
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%206.png" width="100%" height="500px">
   
    <H1 align="center">IF-ELSE</H1>
   
