@@ -22,7 +22,7 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%205.png" width="100%" height="500px">
 
 <H3 align="center"> EXERCICÍO 6 </H3>
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%206.png" width="100%" height="600px">
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%206.png" width="100%" height="650px">
   
    <H1 align="center">IF-ELSE</H1>
   
