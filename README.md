@@ -26,4 +26,20 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
   
    <H1 align="center">IF-ELSE</H1>
   
+  <H3 align="center"> EXERCICÍO 7 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%207.png" width="100%" height="650px">
   
+  <H3 align="center"> EXERCICÍO 8 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%208.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 9 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%209.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 10 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2010.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 11 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2011.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 12 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2012.png" width="100%" height="650px">
