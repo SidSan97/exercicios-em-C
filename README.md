@@ -6,6 +6,7 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
   <H1 align="center"> ARITIMÉTICA <H1>
 
 <H3 align="center"> EXERCICÍO 1 </H3>
+
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/exercicio%201.png" width="70%" height="450px">
 
 <H3 align="center"> EXERCICÍO 2 </H3>
@@ -23,5 +24,6 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
 <H3 align="center"> EXERCICÍO 6 </H3>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%206.png" width="70%" height="450px">
   
-   <H1>IF-ELSE</H1>
-
+   <H1 align="center">IF-ELSE</H1>
+  
+  
