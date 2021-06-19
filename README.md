@@ -63,3 +63,20 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
   
   <H3 align="center"> EXERCICÍO 18 </H3>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2018.png" width="100%" height="650px">
+  
+   <H1 align="center">VETORES</H1>
+  
+   <H3 align="center"> EXERCICÍO 19 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2019.png" width="100%" height="650px">
+  
+   <H3 align="center"> EXERCICÍO 20 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2020.png" width="100%" height="650px">
+  
+   <H3 align="center"> EXERCICÍO 21 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2021.png" width="100%" height="650px">
+  
+   <H3 align="center"> EXERCICÍO 22 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2022.png" width="100%" height="650px">
+  
+   <H3 align="center"> EXERCICÍO 23 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2023.png" width="100%" height="650px">
