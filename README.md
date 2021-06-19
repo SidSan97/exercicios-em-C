@@ -43,3 +43,23 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
   
   <H3 align="center"> EXERCICÍO 12 </H3>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2012.png" width="100%" height="650px">
+  
+  <H1 align="center">LOOP</H1>
+  
+  <H3 align="center"> EXERCICÍO 13 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2013.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 14 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2014.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 15 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2015.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 16 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2016.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 17 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2017.png" width="100%" height="650px">
+  
+  <H3 align="center"> EXERCICÍO 18 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2018.png" width="100%" height="650px">
