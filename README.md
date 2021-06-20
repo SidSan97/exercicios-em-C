@@ -80,3 +80,14 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
   
    <H3 align="center"> EXERCICÍO 23 </H3>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2023.png" width="100%" height="650px">
+  
+   <H1 align="center">STRING<</H1>
+     
+  <H3 align="center"> EXERCICÍO 24 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2024.png" width="100%" height="650px">    
+     
+  <H3 align="center"> EXERCICÍO 25 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2025.png" width="100%" height="650px">    
+     
+  <H3 align="center"> EXERCICÍO 26 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2026.png" width="100%" height="650px">    
