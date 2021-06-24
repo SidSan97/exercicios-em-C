@@ -104,7 +104,7 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2029.png" width="100%" height="650px"> 
   
   <H3 align="center"> EXERCICÍO 30 </H3>
-<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2030.png" width="100%" height="650px"> 
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2030.jpg" width="100%" height="650px"> 
   
   <H3 align="center"> EXERCICÍO 31 </H3>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2031.png" width="100%" height="650px"> 
