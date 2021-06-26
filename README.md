@@ -122,4 +122,18 @@ Série de listas de atividades acadêmicas feitas em C e C++ para a disciplina M
   
    <H3 align="center"> EXERCICÍO 35 </H3>
 <img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2035.png" width="100%" height="650px"> 
+  
+  <H1 align="center">BUSCA BINÁRIA</H1>
+
+ <H3 align="center"> EXERCICÍO 36 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2036.png" width="100%" height="650px"> 
+  
+   <H3 align="center"> EXERCICÍO 37 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2037.png" width="100%" height="650px"> 
+  
+   <H3 align="center"> EXERCICÍO 38 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2038.png" width="100%" height="650px"> 
+  
+   <H3 align="center"> EXERCICÍO 39 </H3>
+<img src="https://github.com/SidSan97/exercicios-em-C/blob/main/Quest%C3%B5es/Exercicio%2039.png" width="100%" height="650px"> 
 
